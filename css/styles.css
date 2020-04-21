@@ -47,6 +47,7 @@ body {
     text-align: center;
     color: white;
     transition: background-color .5s;
+    padding: 0.8em;
 }
 .footer:hover{
     background-color: rgb(29, 28, 28);
